@@ -1,1 +1,0 @@
-{ "buildCommand": "npm install --save react-hot-toast && npm run build", "installCommand": "npm install", "framework": "vite" }
